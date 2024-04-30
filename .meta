@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "history": "https://github.com/CloudComputing-SSWU/history.git",
+    "video-streaming": "https://github.com/CloudComputing-SSWU/video-streaming.git",
+    "db": "https://github.com/CloudComputing-SSWU/db.git"
+  }
+}
